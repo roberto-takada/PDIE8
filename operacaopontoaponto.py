@@ -10,7 +10,7 @@ def main():
   print(img.format)
   print(img.size)
   print(img.mode)
-  # transformaNegativo(img)
+  transformaNegativo(img)
   # divideMetade(img)
   # adicionaQuadrados(img)
   # adicionaQuadradoPreto(img)
