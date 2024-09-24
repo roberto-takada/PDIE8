@@ -14,10 +14,10 @@ def main():
   print(img.format)
   print(img.size)
   print(img.mode)
-  # transformaNegativo(img)
-  # divideMetade(img)
-  # adicionaQuadrados(img)
-  # adicionaQuadradoPreto(img)
+  transformaNegativo(img)
+  divideMetade(img)
+  adicionaQuadrados(img)
+  adicionaQuadradoPreto(img)
 
 # Adiciona um quadrado preto no centro da imagem
 def adicionaQuadradoPreto(img):
